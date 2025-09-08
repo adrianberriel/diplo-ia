@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.conda/
+.venv*/
+pip-wheel-metadata/
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and temp files
+logs/
+*.log
+.tmp/
+.temp/
+.cache/
+
+# Test and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+.nox/
+.tox/
+.hypothesis/
+.benchmarks/
+
+# Build artifacts
+build/
+dist/
+wheels/
+.eggs/
+*.egg-info/
+*.egg
+MANIFEST
+
+# IDE / Editor
+.idea/
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environment variables and local config
+.env
+.env.*
+!.env.example

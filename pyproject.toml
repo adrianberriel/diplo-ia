@@ -1,0 +1,14 @@
+[project]
+name = "diplo-ia"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.30.1",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.6",
+    "numpy>=2.3.2",
+    "pandas>=2.3.2",
+    "pandas-stubs==2.3.2.250827",
+    "seaborn>=0.13.2",
+]
